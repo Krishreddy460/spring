@@ -5,6 +5,7 @@ abstract class BankAccount
 	
 	private int accNo;
 	private String accName;
+	private int no;
 	double accBal;
 	
 	
